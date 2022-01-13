@@ -11,7 +11,6 @@
     <input type="text" name="valor1" size="10" maxlength="10"><br />
     <input type="text" name="valor2" size="10" maxlength="10"><br />
     <input type="submit" value="Calcular">
-    <input type="submit" value="Limpar">
 </form>
 </body>
 </html>
